@@ -1,0 +1,13 @@
+El resultado de 10 - 2 = 8
+
+El resultado de 2 * 17 * 6 = 204
+
+el area de un rectangulo de 5*3 es = 15
+el area de un rectangulo de 12.5*5.3 es = 66.25
+
+50 F son 10 C
+75 F son 23.88888888888889 C
+
+el promedio entre 5,7,9 es = 7
+el promedio entre -2,-3,-8 es = -4.333333333333333
+el promedio entre -1.2,5.3,-3.3 es = 0.2666666666666666
